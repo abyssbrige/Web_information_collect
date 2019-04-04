@@ -1,0 +1,11 @@
+http://127.0.0.1/DVWA-master/asd.php 404
+http://127.0.0.1/DVWA-master/woasoijd.php 404
+http://127.0.0.1/DVWA-master/admin.php 404
+http://127.0.0.1/DVWA-master/vulnerabilities/include/ 404
+http://127.0.0.1/DVWA-master/admin66.php 404
+http://127.0.0.1/DVWA-master/admin123.php 404
+http://127.0.0.1/DVWA-master/instructions.php 200
+http://127.0.0.1/DVWA-master/setup.php 200
+http://127.0.0.1/DVWA-master/index.php 200
+http://127.0.0.1/DVWA-master/vulnerabilities/upload/ 200
+http://127.0.0.1/DVWA-master/vulnerabilities/sqli_blind/ 200

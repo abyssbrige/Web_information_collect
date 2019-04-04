@@ -1,0 +1,11 @@
+instructions.php
+index.php
+asd.php
+woasoijd.php
+admin.php
+vulnerabilities/upload/
+vulnerabilities/include/
+vulnerabilities/sqli_blind/
+admin123.php
+admin66.php
+setup.php
